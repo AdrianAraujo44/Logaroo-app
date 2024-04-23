@@ -3,8 +3,8 @@
 ## Descrição ℹ️
 Este projeto é um aplicativo desenvolvido em React Native com TypeScript e Styled Components para um teste frontend na startup Logaroo.
 
-link para o projeto web com React: https://github.com/AdrianAraujo44/Logaroo
-link para a demonstração do app: https://youtu.be/b84clHywsTM
+- link para o projeto web com React: https://github.com/AdrianAraujo44/Logaroo
+- link para a demonstração do app: https://youtu.be/b84clHywsTM
 
 ## Como Rodar o Projeto ▶️
 1. Certifique-se de ter o Node.js instalado em sua máquina.
@@ -44,7 +44,7 @@ caso esteja usando algum emulador android, bastar teclar 'a' no terminal, o emul
 ## Algumas Observações 📝
 
 Foi fornecido os links:
-https://bitbucket.org/logaroodev/frontend/src/master/ 
-https://whimsical.com/logaroo-teste-front-end-8bCv4pDvGgkYLv6QotCKeo
+- https://bitbucket.org/logaroodev/frontend/src/master/ 
+- https://whimsical.com/logaroo-teste-front-end-8bCv4pDvGgkYLv6QotCKeo
 
 No primeiro pede para criar um aplicativo em React Native, Contudo os wireframes fornecidos são para uma aplicação web com React. Assim, eu fiz tanto esse app quanto uma aplicação web com o mesmo intuito, segue o link do repositório: https://github.com/AdrianAraujo44/Logaroo
